@@ -1,0 +1,8 @@
+{
+  "item.endrosgolems.testitem": "Example Item",
+  "item.endrosgolems.eviltestitem": "Scary Item",
+  "block.endrosgolems.scary_block": "Scary Block",
+  "block.endrosgolems.benevolent_block": "Benevolent Block",
+  "creativetab.endrosgolems.testblocks": "Test blocks",
+  "creativetab.endrosgolems.testcategory": "test category"
+}
