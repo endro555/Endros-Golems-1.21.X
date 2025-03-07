@@ -31,6 +31,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.SCARY_BLOCK);
                         output.accept(ModBlocks.BENEVOLENT_BLOCK);
+                        output.accept(ModBlocks.NEUTRAL_BLOCK);
 
                     }).build());
 

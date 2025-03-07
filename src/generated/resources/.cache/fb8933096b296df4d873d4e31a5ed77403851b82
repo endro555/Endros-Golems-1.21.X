@@ -1,0 +1,10 @@
+// 1.21.1	2025-03-07T08:17:39.7992648	Block States: endrosgolems
+77025b9d71024baa10156ab3a79be1a901764744 assets/endrosgolems/blockstates/benevolent_block.json
+ae2a2038a5d9b94a242f4f4ebdb3c54cd82a8094 assets/endrosgolems/blockstates/neutral_block.json
+88030859e075edcccff1c3efd085482c833650bf assets/endrosgolems/blockstates/scary_block.json
+22a325927f73fda13e9ecce584fb19dd6baee288 assets/endrosgolems/models/block/benevolent_block.json
+d8add69ed0e4ae66fe63ba166fb38025d7a0568f assets/endrosgolems/models/block/neutral_block.json
+4aeafaf47a1f002843b6ca7cff1cba9416cd95ed assets/endrosgolems/models/block/scary_block.json
+72897018216e22aaad0c9588108a6a1e6f00bfe7 assets/endrosgolems/models/item/benevolent_block.json
+dca0139679ad3af205957c015edcbbd16947820f assets/endrosgolems/models/item/neutral_block.json
+8caf9d5a03f99364c3b4dfba6a52eaa4b6fa23e4 assets/endrosgolems/models/item/scary_block.json
